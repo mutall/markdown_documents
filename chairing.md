@@ -10,4 +10,3 @@ There are guidelines set to help in leading to ensure success and improvement.
 3. Outline the goals and objectives of the system.  
 4. Define the objectives to the team.
 5. Report on assignments and include the teams in regard to assigned parts.  
-

@@ -1,5 +1,3 @@
-[TOC]
-
 # Payment module
 
 This module is to help in easing the process of making payments.  
