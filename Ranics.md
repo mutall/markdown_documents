@@ -76,6 +76,26 @@ The act of removing data from a structure.
 ## Ranics Agenda
 
 Ranics has 7 agenda items which are crucial to the CRUD module.
+
+
+```mermaid
+stateDiagram
+    RanicsAgenda --> Civil_Works
+    RanicsAgenda --> Automation
+    RanicsAgenda --> Training
+    
+    Civil_Works --> Quotation
+    Civil_Works --> Proposal
+    Automation --> Data_collection
+    Automation --> Camera_system
+    Automation --> Developing_Ranics
+    Training --> CRUD
+    Training --> Git_collaboration
+    Training --> SVG
+        
+    Camera_system --> Gate_control
+```
+
 |   Civil Works   |  Automation    | Training     |
 | ---- | ---- | ---- |
 |  1. Quotations    |  3. Data collection    |  6. CRUD    |
