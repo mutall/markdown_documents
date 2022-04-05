@@ -75,9 +75,14 @@ Allows a business to make payments to customers or clients, workers i.e  can be 
   - Tea delivery
   - Tea payment  
 
-- [x] Design a tea delivery form.(SW)
+- [x] Design a tea delivery form.(SM)
 - [x] Code the ok button for the form.(DK)
 - [x] Design a tea payment form.(JN)
 - [x] Code the ok button for the form.(PK)
 - [x] Research on how to use paypal for payment.(DK)
 - [x] Research on `JENGA API` for C2C payments.  
+- [x] Redesign the tea delivery template.(SM)
+- [x] Collect data from the delivery form and display it in an alert box (as a json string). (DK)
+- [x] Code the more button (add new record).(PK)
+- [x] Redesign the tea pay template.
+- [x] Catch the mpesa msg after paying and extract necessary details, e.g., amount, receipients et al.
